@@ -43,3 +43,26 @@ export const companyLogo = [
     alt: "Logo5",
   },
 ];
+
+export const destinationData = [
+  {
+    name: "Bromo",
+    address: "Jawa Timur",
+    image: "/assets/images/d1.jpg",
+  },
+  {
+    name: "Lombok",
+    address: "NTB",
+    image: "/assets/images/d2.jpg",
+  },
+  {
+    name: "Raja Ampat",
+    address: "Papua Barat",
+    image: "/assets/images/d3.jpg",
+  },
+  {
+    name: "Kawah Ijen",
+    address: "Jawa Timur",
+    image: "/assets/images/d4.jpg",
+  },
+];
